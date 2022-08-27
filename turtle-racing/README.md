@@ -1,4 +1,4 @@
-![screenshot](https://github.com/erinchocolate/build-my-own-x/blob/master/Game/python-turtle-racing/screenshot.png)
+![screenshot](https://github.com/erinchocolate/python-exercise/blob/master/turtle-racing/screenshot.png)
 
 This document is for my personal reference on what I use in this project include modules, functions and etc.
 
